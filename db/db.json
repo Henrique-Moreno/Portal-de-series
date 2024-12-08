@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Jhonata",
+      "curso": "Sistemas de Informação",
+      "email": "jhonata@gmail.com",
+      "facebook": "https://pt-br.facebook.com/",
+      "twitter": "https://x.com/",
+      "instagram": "https://www.instagram.com/",
+      "bio": "Olá, meu nome é Jhonata e sou desenvolvedor de software"
+    }
+  ],
+  "seriesFavoritas": [
+    {
+      "id": "1733609446405",
+      "serieId": "257064"
+    },
+    {
+      "id": "1733614281848",
+      "serieId": "62560"
+    },
+    {
+      "id": 1733668129914,
+      "serieId": "456"
+    }
+  ]
+}
